@@ -50,7 +50,7 @@
             <div class="form-group">
                 <input type="text" class="form-control" value="<?= $pelamar['id_pelamar_perusahaan']; ?>" name="id_pelamar_perusahaan" hidden>
             </div>
-            <button type="submit" class="btn btn-primary text-uppercase font-weight-bolder">ABSEN</button>
+            <!-- <button type="submit" class="btn btn-primary text-uppercase font-weight-bolder">ABSEN</button> -->
         </form>
     </div>
 
