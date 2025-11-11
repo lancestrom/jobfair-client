@@ -23,7 +23,7 @@
             <h1 class="display-4 text-white">cek pelamar job fair <br> bkk smk tunas harapan jakarta barat</h1>
             <div class="row">
                 <div class="col-md mt-5">
-                    <form method="get" action="<? base_url() ?>Cek_absen/cek_qrcode">
+                    <!-- <form method="get" action="<? base_url() ?>Cek_absen/cek_qrcode">
                         <div class="form-group">
                             <label>
                                 <h5 class="text-center text-uppercase font-weight-bolder text-white">
@@ -33,7 +33,7 @@
                             <input type="text" class="form-control" name="id_pelamar">
                         </div>
                         <button type="submit" class="btn btn-danger">CARI</button>
-                    </form>
+                    </form> -->
                 </div>
             </div>
         </div>
